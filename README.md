@@ -1,5 +1,7 @@
 # BlocksForFlexcel
 
+![schema](https://github.com/knigin-alexey/BlocksForFlexcel/blob/master/naglyadnaya_shema.png)
+
 Все блоки унаследованы от классов AbstractBodyBlock<T, H> и AbstractBodyFooterBlock<T, H>, которые унаследованы от AbstractBlock<T, H> : ISelfRenderable<H>
 
 Дженерик H - это тот самый класс InternalData, который общий для всей ветки.
